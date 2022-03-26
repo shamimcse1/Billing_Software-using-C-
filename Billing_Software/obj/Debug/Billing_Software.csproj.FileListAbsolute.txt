@@ -1,0 +1,9 @@
+C:\Users\mdsha\Documents\Visual Studio 2015\Projects\Billing_Software\Billing_Software\bin\Debug\Billing_Software.exe.config
+C:\Users\mdsha\Documents\Visual Studio 2015\Projects\Billing_Software\Billing_Software\obj\Debug\Billing_Software.exe
+C:\Users\mdsha\Documents\Visual Studio 2015\Projects\Billing_Software\Billing_Software\obj\Debug\Billing_Software.pdb
+C:\Users\mdsha\Documents\Visual Studio 2015\Projects\Billing_Software\Billing_Software\bin\Debug\Billing_Software.exe
+C:\Users\mdsha\Documents\Visual Studio 2015\Projects\Billing_Software\Billing_Software\bin\Debug\Billing_Software.pdb
+C:\Users\mdsha\Documents\Visual Studio 2015\Projects\Billing_Software\Billing_Software\obj\Debug\Billing_Software.csprojResolveAssemblyReference.cache
+C:\Users\mdsha\Documents\Visual Studio 2015\Projects\Billing_Software\Billing_Software\obj\Debug\Billing_Software.Form1.resources
+C:\Users\mdsha\Documents\Visual Studio 2015\Projects\Billing_Software\Billing_Software\obj\Debug\Billing_Software.Properties.Resources.resources
+C:\Users\mdsha\Documents\Visual Studio 2015\Projects\Billing_Software\Billing_Software\obj\Debug\Billing_Software.csproj.GenerateResource.Cache
